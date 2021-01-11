@@ -1,0 +1,24 @@
+sudo dpkg -i zoom_amd64.deb 
+sudo apt remove zoom
+sudo apt install gdebi
+exit
+sudo snap install intellij-idea-ultimate --classic
+exit
+sudo apt-get install ubuntu-desktop
+ubuntu-drivers devices
+exit
+git clone https://github.com/tardisone/cobra-fineng.git
+sudo apt install git
+git clone https://github.com/tardisone/cobra-fineng.git
+cd ..
+sudo apt uddate
+sudo apt update
+sudo apt install snapd
+sudo snap install postman 
+exit
+chown -R aryan:aryan /path/to/cobra-payroll/target
+chown -R aryan:aryan ~/.m2
+chown -R 1000:1000 ~/.m2
+chown -R aryan:aryan ~/.m2
+chown -R aryan:aryan /cobra-fineng/target
+chown -R aryan:aryan /target

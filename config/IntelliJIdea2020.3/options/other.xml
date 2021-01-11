@@ -1,0 +1,48 @@
+<application>
+  <component name="CodeStyleSchemesUIConfiguration">
+    <option name="RECENT_IMPORT_FILE_LOCATION" value="file:$USER_HOME$/Downloads/intellij-java-google-style.xml" />
+  </component>
+  <component name="ProjectPluginTrackerManager">
+    <option name="trackers">
+      <map>
+        <entry key="1muc0aaWIAx5x1k6wkfT5rs0qT5">
+          <value>
+            <ProjectPluginTrackerState />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="MarketplacePluginsSearchHistory" value="save actions&#10;save ac&#10;code with me&#10;code wi&#10;code" />
+    <property name="NonModalCommitCustomization.IsApplied" value="true" />
+    <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
+    <property name="appcds.runOnSecondStart" value="IU-203.6682.168-6f385df61aea858f9d013eb23c65a5e30bbd45f7df1fb565c16c233a291cda2b" />
+    <property name="ask.about.ctrl.y.shortcut.v2" value="true" />
+    <property name="build.toolwindow.Sync.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Sources" />
+    <property name="decompiler.legal.notice.accepted" value="true" />
+    <property name="defaultJdkConfigured" value="true" />
+    <property name="evlsprt3.203" value="14" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/Downloads/intellij-java-google-style.xml&#10;/home/aryan/Appdesk Projects/cobra-fineng" />
+    <property name="file.gist.reindex.count" value="803" />
+    <property name="fileTypeChangedCounter" value="2" />
+    <property name="got.it.tooltip.cwm.invitation.notification" value="1" />
+    <property name="got.it.tooltip.reader.mode.got.it" value="1" />
+    <property name="ide.memory.adjusted" value="true" />
+    <property name="ide.updates.previous.build.number" value="IU-203.6682.168" />
+    <property name="installed.kotlin.plugin.version" value="203-1.4.10-release-IJ6682.9" />
+    <property name="lastSeenTip" value="neue-WideScreen.html" />
+    <property name="lastTimeTipsWereShown" value="1610346700279" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/intellij-java-google-style.xml" />
+    <property name="log.trace.categories" value="#com.jetbrains.rdserver.requests&#10;#com.jetbrains.rd.ide.document&#10;#com.jetbrains.rdserver.document&#10;#com.jetbrains.rdserver.editors&#10;#com.jetbrains.rdserver.actions" />
+    <property name="packagesearch.endpoint.url.fulltext" value="https://package-search.services.jetbrains.com/api/search/idea/fulltext" />
+    <property name="packagesearch.endpoint.url.suggest" value="https://package-search.services.jetbrains.com/api/search/idea/suggest" />
+    <property name="packagesearch.status.updated.ts" value="1610346693742" />
+    <property name="seenTips" value="neue-WideScreen.html" />
+    <property name="settings.code.style.selected.tab.JAVA" value="Imports" />
+    <property name="shared.index.infrastructure.prop" value="4" />
+    <property name="tasks.pass.word.conversion.enforced" value="true" />
+    <property name="ts.lib.d.ts.version" value="4.1.3" />
+  </component>
+</application>

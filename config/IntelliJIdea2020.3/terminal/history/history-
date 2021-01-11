@@ -1,0 +1,39 @@
+sudo dpkg -i zoom_amd64.deb 
+sudo apt remove zoom
+sudo apt install gdebi
+exit
+sudo snap install intellij-idea-ultimate --classic
+exit
+sudo apt-get install ubuntu-desktop
+ubuntu-drivers devices
+exit
+sudo docker-compose up
+docker-compose --help
+sudo apt install docker-compose
+su
+sudo docker-composwe up
+sudo docker-compose up
+rm -rf /target 
+rm -rf ~/.m2/*
+docker-compose build
+sudo docker-compose build
+sudo docker-compose up
+ls -ltra
+sudo rm .m2
+rm -rf ~/.m2/*
+sudo rm .m2
+sudo rm ~/.m2
+sudo rm ~/.m2/*
+sudo rm -rf ~/.m2/*
+ls -ltra
+sudo rm -rf ~/.m2/*
+sudo docker-compose up
+su
+groups
+docker-compose up
+sudi docker-compose up
+sudo docker-compose up
+groups
+sudo groupadd docker
+sudo usermod -aG docker aryan
+docker-compose up
